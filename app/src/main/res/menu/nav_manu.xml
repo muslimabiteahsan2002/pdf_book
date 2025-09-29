@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/appInfo"
+        android:icon="@drawable/app_24"
+        android:title="App Info" />
+    <item
+        android:id="@+id/developerInfo"
+        android:icon="@drawable/develop_24"
+        android:title="Developer Info" />
+    <item
+        android:id="@+id/privacyPolicy"
+        android:icon="@drawable/approval_24"
+        android:title="Privacy Policy" />
+</menu>
